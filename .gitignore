@@ -1,0 +1,6 @@
+# Compiled binaries
+csv-parser
+src/*.o
+
+data files
+data/
