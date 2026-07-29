@@ -17,6 +17,8 @@ consolidate core C programming concepts.
 ---
 
 ## Project Structure
+```bash
+csv-parser
 ├── Makefile
 ├── README.md
 ├── csv-parser
@@ -30,7 +32,7 @@ consolidate core C programming concepts.
 │   ├── parser.c
 │   └── stats.c
 └── tests
-
+```
 ---
 
 ## How to Build and Run
