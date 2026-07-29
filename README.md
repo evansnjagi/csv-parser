@@ -161,4 +161,5 @@ git diff                      # see what changed
 ## Author
 **Evans Njagi**
 MSc. Data Science — Year 1, Semester 1
+
 GitHub: github.com/evansnjagi
